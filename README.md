@@ -1,4 +1,4 @@
-# np-complete-problems
+# NP-Complete Problems
 
 Primer on some NP-Complete problems
 
